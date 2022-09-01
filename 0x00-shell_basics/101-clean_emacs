@@ -1,2 +1,2 @@
-f!/bin/bash
+#!/bin/bash
 rm  -r *.~
